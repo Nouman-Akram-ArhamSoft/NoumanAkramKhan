@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **numanakramkhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tm2nU9h5rO3GM9qlcwAWJ4Z0tu3q75mG/view?usp=sharing](Personal Resume)
+- 📄 Know about my experiences [Personal Resume](https://drive.google.com/file/d/1Tm2nU9h5rO3GM9qlcwAWJ4Z0tu3q75mG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
