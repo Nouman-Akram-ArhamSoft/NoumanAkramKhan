@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouman Akram</h1>
-<h3 align="center">A passionate Python Developer from Pakistan</h3>
+<h3 align="center">A Python Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **SlackBot Project**
 
